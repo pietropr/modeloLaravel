@@ -21,7 +21,7 @@
             <nav class="grey darken-4">
                 <div class="container">
                     <div class="nav-wrapper">
-                        <a href="#" class="brand-logo"><strong>RE </strong>| AÇA</a>
+                        <a href="#" class="brand-logo"><strong>RE </strong>| BLOG</a>
                         <ul id="nav-mobile" class="right hide-on-med-and-down">
 
                             @if(Auth::user()->tipo !== 'autor')
